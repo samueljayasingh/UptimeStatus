@@ -1,0 +1,27 @@
+# Change these first
+owner: samueljayasingh # Your GitHub organization or username, where this repository lives
+repo: UptimeStatus # The name of this repository
+
+sites:
+  - name: Samuel Jayasingh (Portfolio)
+    url: https://samueljayasingh.in/
+  - name: Samuel Jayasingh (Links)
+    url: https://links.samueljayasingh.in/
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.samueljayasingh.in
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Samuel Jayasingh Services Status
+  introTitle: "**Samuel Jayasingh** Services Status"
+  introMessage: This status page monitors the uptime and response time of Samuel's websites and services. No server required — powered entirely by GitHub Actions, Issues, and Pages.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
