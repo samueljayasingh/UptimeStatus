@@ -22,17 +22,19 @@
     "url": "https://links.samueljayasingh.in/",
     "icon": "https://icons.duckduckgo.com/ip3/links.samueljayasingh.in.ico",
     "slug": "samuel-jayasingh-links",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 746,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "96.96%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
+    "time": 970,
+    "timeDay": 805,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
+    "dailyMinutesDown": {
+      "2026-06-03": 294
+    }
   }
 ]
